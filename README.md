@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailamahfouz&label=Profile%20views&color=0e75b6&style=flat" alt="suhailamahfouz" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhailamahfouz" alt="suhailamahfouz" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/suhaila_elgohry" target="blank"><img src="https://img.shields.io/twitter/follow/suhaila_elgohry?logo=twitter&style=for-the-badge" alt="suhaila_elgohry" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend development (HTML, CSS, JavaScript)**
@@ -14,7 +16,7 @@
 <a href="https://twitter.com/suhaila_elgohry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhaila_elgohry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v" height="30" width="40" /></a>
 <a href="https://kaggle.com/suhaila elgohry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suhaila elgohry" height="30" width="40" /></a>
-<a href="https://fb.com/suhaila.elgohry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhaila.elgohry" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/19lszqusrm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/19lszqusrm/" height="30" width="40" /></a>
 <a href="https://instagram.com/suhaila_elgohry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhaila_elgohry" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/suhaila_elgohry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suhaila_elgohry" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dev_suhaila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dev_suhaila" height="30" width="40" /></a>
@@ -28,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailamahfouz&show_icons=true&locale=en" alt="suhailamahfouz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailamahfouz&" alt="suhailamahfouz" /></p>
-
